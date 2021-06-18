@@ -2,7 +2,7 @@
 
 <img align='right' src="Cool_Gif.gif" width="300">
 
-Hi Again, my name is Gustavo de Souza Silva, i have 16 almost 17, I am taking the course of analysis and systems development in ETEC
+Hi Again, my name is Gustavo de Souza Silva, i have 17, I am taking the course of analysis and systems development in ETEC
 
 * I know 85% of English, my pronunciation is not so good
 * Trying to learn new stuff
