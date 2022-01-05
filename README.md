@@ -2,7 +2,7 @@
 
 <img align='right' src="Cool_Gif.gif" width="300">
 
-Hi Again, my name is Gustavo de Souza Silva, i have 17, I think i know something, working hard to be sure about that
+Hi Again, my name is Gustavo de Souza Silva, i have 17, am a Front-End Dev, and i think i know something, working hard to be sure about that
 
 * I know 85% of English, my pronunciation is not so good
 * Trying to learn new stuff
