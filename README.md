@@ -10,7 +10,6 @@ Hi Again, my name is Gustavo de Souza Silva, i have 17, am a Front-End Dev, and 
  
 <p>Contact</p>
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/GuztaJF-DS)](https://github.com/GuztaJF-DS)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-de-souza-077598206/)](https://www.linkedin.com/in/gustavo-de-souza-077598206/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/IGotaMellowship)](https://twitter.com/IGotaMellowship)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://twitter.com/IGotaMellowship)](noobshippuden13@gmail.com)
