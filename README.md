@@ -4,7 +4,7 @@
 
 Hi Again, my name is Gustavo de Souza Silva, i have 17, i'm a Front-End Dev, and i think i know something, working hard to be sure about that
 
-* I know 85% of English, my pronunciation is not so good
+* I know 90% of English, my pronunciation is Getting better
 * Trying to learn new stuff
 * Working to put more things in this profile
  
