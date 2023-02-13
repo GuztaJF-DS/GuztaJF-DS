@@ -1,6 +1,6 @@
 # Hello Hello
 
-<img align='right' src="Cool_Gif.gif" width="300">
+<img align='right' src="NewGif.gif" width="300">
 
 Hi Again, my name is Gustavo de Souza Silva, i'm 18 years old, and i think i know something, working hard to be sure about that
 
